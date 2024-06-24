@@ -1,0 +1,14 @@
+{
+    "applicants": [
+      {
+        "id": 1,
+        "name": "Emma Green",
+        "age": 51,
+        "image": ""
+      },
+      {
+        "name": "miki",
+        "age": 14
+      }
+    ]
+  }
