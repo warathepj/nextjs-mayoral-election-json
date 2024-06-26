@@ -1,14 +1,17 @@
 {
     "applicants": [
       {
-        "id": 1,
+        "id": "1",
         "name": "Emma Green",
         "age": 51,
-        "image": ""
+        "image": "https://images.unsplash.com/photo-1633934214315-d1a99cc349d7?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
-        "name": "miki",
-        "age": 14
+        "id": "2",
+        "name": "James Mitchell",
+        "age": 35,
+        "image": "https://plus.unsplash.com/premium_photo-1675080431524-3e7c85323972?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
+      
     ]
   }
